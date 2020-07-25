@@ -29,7 +29,7 @@
   "author": "themre",
   "homepage": "",
   "license": "MIT",
-  "repository": "http://github.com/themre/react-closeable-tabs",
+  "repository": "https://github.com/AleksandraPedzich/react-closeable-tabs",
   "keywords": [
     "react-component, react, styled-components, tabs"
   ]
